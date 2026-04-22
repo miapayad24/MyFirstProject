@@ -7,6 +7,7 @@ This Java program that stores and displays information about books. Each Book ob
 1. Open the program in your IDE.
 2. Enter the amount of books, the title of the book, pages, year of publication, and price.
 3. View the printed receipt.
+4. let user know if their book is affordable or not (edit by Maile Eusebio)
 
 ## Example Output
 How many books? 2
