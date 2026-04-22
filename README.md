@@ -33,3 +33,6 @@ This book is expensive.
 
 ## Author
 Mia Payad
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Maile on GitHub.
